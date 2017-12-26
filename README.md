@@ -2,5 +2,5 @@
 Arnold's cat maps are a form of chaotic mapping which show the underlying patterns of otherwise disorderly behaviour. 
 
 
-![Alt Text](https://media.giphy.com/media/xULW8wQwxwhnbBRDAA/source.mp4)
-<img src="https://media.giphy.com/media/xULW8wQwxwhnbBRDAA/source.mp4" width="40" height="40" />
+![Alt Text](https://abhipateldotblog.files.wordpress.com/2017/12/dexter.gif?w=840)
+<img src="https://abhipateldotblog.files.wordpress.com/2017/12/dexter.gif?w=840" width="40" height="40" />
